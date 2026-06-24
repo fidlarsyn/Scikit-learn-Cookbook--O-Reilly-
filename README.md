@@ -24,7 +24,7 @@
 
 **Bab 12**: Validasi Silang dan Teknik Evaluasi Model Menjelaskan strategi validasi model yang robust untuk memastikan generalisasi pada data baru, mencakup berbagai metode Cross-Validation, pencarian hyperparameter (Grid Search, Randomized Search), serta penggunaan kurva pembelajaran.
 
-**Bab 13**: Menyebarkan Model scikit-learn di Produksi Memberikan panduan praktis untuk membawa model dari lingkungan pengembangan ke sistem produksi, termasuk teknik serialisasi model (joblib, pickle), pemantauan kinerja model dari waktu ke waktu, dan otomasi alur kerja penyebaran
+**Bab 13**: Menyebarkan Model scikit-learn di Produksi Memberikan panduan praktis untuk membawa model dari lingkungan pengembangan ke sistem produksi, termasuk teknik serialisasi model (joblib, pickle), pemantauan kinerja model dari waktu ke waktu, dan otomasi alur kerja penyebaran.
 
 **Nama: Fidela Risyunira 
 | NIM: 101032300001
